@@ -1,2 +1,3 @@
-# local-chatgpt
-A barebones version of chatgpt with BYO API keys and local history storage
+# ChatLLM
+
+Barebones locally run ChatGPT with BYO keys and local storage
